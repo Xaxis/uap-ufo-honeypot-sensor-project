@@ -147,14 +147,14 @@ The proposed UAP Honeypot Sensor Project merges citizen science, open hardware, 
 ---
 
 ## References
-1. NASA Science. “Unidentified Anomalous Phenomena (UAP).” 2022. :contentReference[oaicite:6]{index=6}  
-2. NASA. “Independent Study Report on UAP.” 2024. :contentReference[oaicite:7]{index=7}  
-3. Harvard Galileo Project. “Mission & Activities.” 2023. :contentReference[oaicite:8]{index=8}  
-4. SkyHub / Sky360. “Building a Sky Hub UAP Tracker.” Medium, 2021; Instructables update 2023. :contentReference[oaicite:9]{index=9}  
-5. First Alert. “Facts About Smoke Detector Radiation.” 2022. :contentReference[oaicite:10]{index=10}  
-6. GammaSpectacular. “Americium-241 Gamma Spectrum.” 2023. :contentReference[oaicite:11]{index=11}  
-7. ScienceDirect Topics. “Americium-241 – Radiological Characteristics.” 2024. :contentReference[oaicite:12]{index=12}  
-8. Wikipedia. “Americium-241.” Accessed 2025-06-04. :contentReference[oaicite:13]{index=13}  
-9. Advexure Drones. “Multispectral Cameras & Sensors.” 2024. :contentReference[oaicite:14]{index=14}  
-10. Drone-Payload.com. “InGaAs SWIR/LWIR Multispectral Camera.” 2025. :contentReference[oaicite:15]{index=15}  
-11. ScienceDirect. “Determining Am-241 Activity for Large Area Contamination.” 2017. :contentReference[oaicite:16]{index=16}
+1. NASA Science. “Unidentified Anomalous Phenomena (UAP).” 2022.  
+2. NASA. “Independent Study Report on UAP.” 2024.  
+3. Harvard Galileo Project. “Mission & Activities.” 2023.  
+4. SkyHub / Sky360. “Building a Sky Hub UAP Tracker.” *Medium*, 2021; *Instructables* update 2023.  
+5. First Alert. “Facts About Smoke Detector Radiation.” 2022.  
+6. GammaSpectacular. “Americium-241 Gamma Spectrum.” 2023.  
+7. *ScienceDirect Topics*. “Americium-241 – Radiological Characteristics.” 2024.  
+8. *Wikipedia*. “Americium-241.” Accessed 2025-06-04.  
+9. Advexure Drones. “Multispectral Cameras & Sensors.” 2024.  
+10. Drone-Payload.com. “InGaAs SWIR/LWIR Multispectral Camera.” 2025.  
+11. *ScienceDirect*. “Determining Am-241 Activity for Large Area Contamination.” 2017.  
