@@ -1,5 +1,11 @@
+---
+title: "UAP / UFO Honeypot Sensor Project"
+description: "This paper proposes an open, citizen-science “honeypot” network to actively attract and record Unidentified Anomalous Phenomena using safe, distinctive emissions—most notably the 59.5 keV gamma line from recycled ^241Am smoke-detector sources—alongside IR, RF, and magnetic signatures. Each affordable node combines multispectral optical, thermal, radar, RF, and radiation sensors with synchronized edge AI on drones or masts, feeding a cryptographically verified, privacy-conscious open-data pipeline. The design supports controlled experiments to test whether such signatures increase anomalous detections, while complying with safety and regulatory standards. The ultimate aim is to shift UAP research from anecdotal reports to large-scale, instrument-grade, publicly accessible evidence."
+pubDate: 2025-06-04
+tags: ["UAP", "UFO", "honeypot", "citizen science", "multi-sensor", "Americium-241", "open data"]
+---
+
 # UAP / UFO Honeypot Sensor Project  
-***A Citizen-Science Blueprint for Instrumenting the Sky with UAP/UFO Sensors***
 
 ## Abstract
 Unidentified Anomalous Phenomena (UAP) continue to challenge aerospace safety, national security, and scientific curiosity. Robust, high-fidelity data remain scarce because historical sightings are largely anecdotal, sensor-poor, or classified. This paper proposes an open, globally distributed “honeypot” network that purposefully emits modest, safely encapsulated physical and electromagnetic signatures—most notably the 59.5 keV γ-ray line of ^241Am sourced from recycled ionization-type smoke detectors—in order to *invite* instrumented interaction. Each honeypot node fuses consumer-grade electro-optical, radio-frequency, thermal-IR, radar, and radiation sensors with edge AI on affordable drones or ground masts. A layered data-integrity pipeline preserves provenance and privacy while enabling large-scale collaborative analysis. We detail scientific rationale, engineering design, deployment logistics, safety and regulatory considerations, adversarial-scenario risk mitigation, expected outcomes, and future expansion paths. The goal is to accelerate the transition from anecdote to evidence by harnessing citizen ingenuity at planetary scale.
